@@ -1,0 +1,7 @@
+State,Date,Frequency,UnemploymentRate,Employed,LabourParticipation,Year,Month
+State1,2019-05-01,Monthly,5.6,100000,45.0,2019,5
+State2,2019-05-01,Monthly,7.2,150000,48.2,2019,5
+State3,2019-05-01,Monthly,6.1,120000,47.1,2019,5
+State1,2020-06-01,Monthly,12.5,90000,42.3,2020,6
+State2,2020-06-01,Monthly,14.2,140000,44.1,2020,6
+State3,2020-06-01,Monthly,11.8,110000,43.0,2020,6
