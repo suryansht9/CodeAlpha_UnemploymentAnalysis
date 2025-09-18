@@ -1,0 +1,7 @@
+Region,Date,Frequency,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%)
+State1,2019-05-01,Monthly,5.6,100000,45.0
+State2,2019-05-01,Monthly,7.2,150000,48.2
+State3,2019-05-01,Monthly,6.1,120000,47.1
+State1,2020-06-01,Monthly,12.5,90000,42.3
+State2,2020-06-01,Monthly,14.2,140000,44.1
+State3,2020-06-01,Monthly,11.8,110000,43.0
